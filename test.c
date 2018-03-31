@@ -2,7 +2,8 @@
 
 int main()
 {
-   int level = 100;
+   int level = 300;
 
-   printf("당신의 레벨은 %d입니다!", level);
+   printf("당신의 레벨 : ");
+   printf("%d", level);
 }
